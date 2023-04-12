@@ -24,5 +24,5 @@ coche2 = Coche('Hyundai', 'I30', 15)
 
 print(coche1.acelerar(10))
 print(coche2.acelerar(10))
-print(coche1.frenar(5))
-print(coche2.frenar(5))
+print(coche1.frenar())
+print(coche2.frenar())
